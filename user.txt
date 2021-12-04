@@ -1,17 +1,22 @@
- [{
-			"domain": "2020",
-			"measure": 3
+ [
+ {
+			"domain": "Mon",
+			"measure": 5000
 		},
 		{
-			"domain": "2021",
-			"measure": 4
+			"domain": "TUE",
+			"measure": 5500
 		},
 		{
-			"domain": "2022",
-			"measure": 6
+			"domain": "WED",
+			"measure": 5300
 		},
 		{
-			"domain": "2023",
-			"measure": 0.3
+			"domain": "THU",
+			"measure": 5500
+		},
+		{
+			"domain": "FRI",
+			"measure": 6000
 		}
 	]
